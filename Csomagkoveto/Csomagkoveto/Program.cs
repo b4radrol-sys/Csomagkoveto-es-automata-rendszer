@@ -157,7 +157,7 @@ while (true)
             Console.WriteLine("Nincs ilyen csomag!");
         }
 
-        // Egy sor a csv fajlba: cimzett;meret;statusz;nyitokod;feladasIdo;csomagAzonosito;szallitasiCim
+        // egy sor a csv fajlban: cimzett;meret;statusz;nyitokod;feladasIdo;csomagAzonosito;szallitasiCim
 
         Console.WriteLine($"========================");
         Console.WriteLine($"A csomag adatai");
