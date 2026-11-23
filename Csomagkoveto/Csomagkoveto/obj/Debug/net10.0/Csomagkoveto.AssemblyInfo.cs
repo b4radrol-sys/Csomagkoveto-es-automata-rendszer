@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csomagkoveto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e321ccfeb1ccb38e471f04055ea8c123799869d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828ecb0ff05c2509a41044b0eb793b863e629b43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csomagkoveto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csomagkoveto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
